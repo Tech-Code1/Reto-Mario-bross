@@ -1,0 +1,170 @@
+.master-content {
+    background-color: #68ACDD;
+    width: 960px;
+    height: 950px;
+    position: relative;
+}
+
+.boxes1 {
+    background-color: #EAB34A;
+}
+
+.boxes2 {
+    background-color: #CE2019;
+}
+
+.boxes3 {
+    background-color: #61170C;
+}
+
+.boxes4 {
+    background-color: #F1BF37;
+}
+
+.boxes1,
+.boxes2,
+.boxes3,
+.boxes4 {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.line-one,
+.line-two,
+.line-three,
+.line-four,
+.line-five,
+.line-six,
+.line-seven,
+.line-eight,
+.line-nine,
+.line-ten,
+.line-eleven,
+.line-twelve,
+.line-thirteen,
+.line-fourteen,
+.line-fiveteen,
+.line-sixteen,
+.line-seventeen {
+    position: absolute;
+}
+
+.line-one {
+    top: 50px;
+    left: 750px;
+}
+
+.line-two {
+    left: 370px;
+    top: 104px;
+}
+
+.subline-two,
+.subline-four,
+.subline-twelve,
+.subline-ten,
+.subline-thirteen,
+.subline-fourteen1,
+.subline-fourteen2,
+.subline-seventeen {
+    position: relative;
+}
+
+.subline-two {
+    left: 110px;
+
+}
+
+.subline-four {
+    left: 54px;
+    position: relative;
+}
+
+.line-three {
+    left: 318px;
+    top: 158px;
+}
+
+.line-four {
+    top: 212px;
+    left: 318px;
+}
+
+.line-five {
+    top: 266px;
+    left: 264px;
+}
+
+.line-six {
+    top: 320px;
+    left: 264px;
+}
+
+.line-seven {
+    top: 374px;
+    left: 264px;
+}
+
+.line-eight {
+    top: 428px;
+    left: 372px;
+}
+
+.line-nine {
+    top: 482px;
+    left: 156px;
+}
+
+.line-ten {
+    top: 536px;
+    left: 102px;
+}
+
+.line-twelve {
+    top: 590px;
+    left: 48px;
+}
+
+.subline-twelve,
+.subline-ten,
+.subline-thirteen {
+    left: 108px;
+}
+
+.line-thirteen {
+    left: 48px;
+    top: 644px
+}
+
+.line-fourteen {
+    top: 698px;
+    left: 102px;
+}
+
+.subline-fourteen1 {
+    left: 54px;
+}
+
+.subline-fourteen2 {
+    left: 108px;
+}
+
+.line-fiveteen {
+    top: 752px;
+    left: 156px;
+}
+
+.line-sixteen {
+    top: 806px;
+    left: 102px;
+}
+
+.line-seventeen {
+    top: 860px;
+    left: 102px;
+}
+
+.subline-seventeen {
+    left: 108px;
+}
